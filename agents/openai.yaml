@@ -1,0 +1,3 @@
+interface:
+  display_name: "Verify (Earned Trust)"
+  short_description: "Layered verification for flows and designs"

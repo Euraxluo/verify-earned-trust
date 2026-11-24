@@ -1,0 +1,7 @@
+.DS_Store
+__pycache__/
+*.pyc
+scripts/.alloy/
+docs/*.finalize.json
+docs/*.finalize-summary.json
+docs/*.delivery.json
